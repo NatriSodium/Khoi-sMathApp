@@ -1,0 +1,6 @@
+MIDlet-1: Midlet, ,khoi_smathapp.GUI_KhoiMathApp
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: Khoi'sMathApp
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
